@@ -6,6 +6,13 @@ Clone the repository.
 ```
 git clone https://github.com/aicb-ZhangLabs/iHerd.git
 ```
+
+## Requirement
+To create a new conda environment for iHerd, run this command.
+```
+conda env create -f py36.yaml
+```
+
 ## Code
 We use **hierarchical graph representation learning** to quantify network changes and prioritize risk genes in disease.
 For more details, please refer to the **HANE_structureOnly** folder.
