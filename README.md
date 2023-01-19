@@ -10,7 +10,7 @@ git clone https://github.com/aicb-ZhangLabs/iHerd.git
 ## Requirement
 To create a new conda environment for iHerd, run this command.
 ```
-conda env create -f py36.yaml
+conda env create -f iHerd.yaml
 ```
 
 ## Code
